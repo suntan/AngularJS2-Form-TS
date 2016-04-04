@@ -1,4 +1,4 @@
-# AngularJS2-Form
+# AngularJS2-Form (TypeScript)
 AngularJS2 (TypeScript) Form Sample
 這是依照 AngularJS2 使用TypeScript 實作的 Form 空白範例備份.在執行此測試前請確認一下您已準備好 Node 環境 ( 以下將以 Linux 為例 )，且已安裝 NPM 全域(global)套件 : tsd  
 
